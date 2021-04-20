@@ -1,0 +1,10 @@
+C:\Users\D065085\source\repos\WCFRestEmployeeDetails\WCFRestEmployeeDetails\obj\Debug\WCFRestEmployeeDetails.csprojAssemblyReference.cache
+C:\Users\D065085\source\repos\WCFRestEmployeeDetails\WCFRestEmployeeDetails\obj\Debug\WCFRestEmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\D065085\source\repos\WCFRestEmployeeDetails\WCFRestEmployeeDetails\bin\Debug\WCFRestEmployeeDetails.dll.config
+C:\Users\D065085\source\repos\WCFRestEmployeeDetails\WCFRestEmployeeDetails\bin\Debug\WCFRestEmployeeDetails.dll
+C:\Users\D065085\source\repos\WCFRestEmployeeDetails\WCFRestEmployeeDetails\bin\Debug\WCFRestEmployeeDetails.pdb
+C:\Users\D065085\source\repos\WCFRestEmployeeDetails\WCFRestEmployeeDetails\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\D065085\source\repos\WCFRestEmployeeDetails\WCFRestEmployeeDetails\bin\Debug\EntityFramework.dll
+C:\Users\D065085\source\repos\WCFRestEmployeeDetails\WCFRestEmployeeDetails\obj\Debug\WCFRestEmployeeDetails.csproj.CopyComplete
+C:\Users\D065085\source\repos\WCFRestEmployeeDetails\WCFRestEmployeeDetails\obj\Debug\WCFRestEmployeeDetails.dll
+C:\Users\D065085\source\repos\WCFRestEmployeeDetails\WCFRestEmployeeDetails\obj\Debug\WCFRestEmployeeDetails.pdb
